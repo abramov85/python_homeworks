@@ -18,8 +18,3 @@ while True:
             print('input number greather than 0 and less than 8')
     except:
         print('input a digit')
-
-
-
-
-#
